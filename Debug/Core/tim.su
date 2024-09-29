@@ -1,0 +1,2 @@
+../Core/tim.c:30:6:MX_TIM2_Init	32	static
+../Core/tim.c:68:6:HAL_TIM_Base_MspInit	24	static

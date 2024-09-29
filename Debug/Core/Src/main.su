@@ -1,0 +1,5 @@
+../Core/Src/main.c:68:9:prepare_data	24	static
+../Core/Src/main.c:88:5:main	8	static
+../Core/Src/main.c:142:6:SystemClock_Config	72	static
+../Core/Src/main.c:175:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:188:6:Error_Handler	4	static,ignoring_inline_asm
